@@ -1,0 +1,10 @@
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\PSudoku\PSudoku\bin\Debug\PSudoku.exe.config
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\PSudoku\PSudoku\bin\Debug\PSudoku.exe
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\PSudoku\PSudoku\bin\Debug\PSudoku.pdb
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\PSudoku\PSudoku\obj\Debug\PSudoku.csproj.CoreCompileInputs.cache
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\PSudoku\PSudoku\obj\Debug\PSudoku.exe
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\PSudoku\PSudoku\obj\Debug\PSudoku.pdb
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\PSudoku\PSudoku\obj\Debug\PSudoku.csproj.AssemblyReference.cache
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\PSudoku\PSudoku\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\PSudoku\PSudoku\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\PSudoku\PSudoku\obj\Debug\PSudoku.csproj.CopyComplete
